@@ -10,7 +10,7 @@ class bin{
         this.width=width;
         this.height=height;
            // World.add(world,this.body);
-           this.image=loadImage("sprites/dustbin1.png");
+           this.image=loadImage("dustbin1.png");
           
     }
     
