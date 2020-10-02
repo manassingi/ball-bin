@@ -10,7 +10,7 @@ class paper
 
 			
 			}
-			this.image=loadImage("sprites/paper.png")
+			this.image=loadImage("paper.png")
 		this.x=x;
 		this.y=y;
 		this.r=r
